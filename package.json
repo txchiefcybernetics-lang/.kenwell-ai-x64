@@ -1,0 +1,20 @@
+{
+  "name": "tradexpress-app",
+  "private": true,
+  "version": "0.0.1",
+  "description": "TradeXpress AI Trade Assistant",
+  "license": "MPL-2.0",
+  "type": "module",
+  "scripts": {
+    "test": "vitest --passWithNoTests"
+  },
+  "devDependencies": {
+    "@types/node": "^20.5.7",
+    "typescript": "^5.2.2",
+    "vitest": "^2.1.4"
+  },
+  "dependencies": {
+    "@google/genai": "latest",
+    "encore.dev": "^1.58.4"
+  }
+}

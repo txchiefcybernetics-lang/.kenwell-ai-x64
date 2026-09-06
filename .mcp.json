@@ -1,0 +1,12 @@
+{
+    "mcpServers": {
+        "encore-local": {
+            "args": [
+                "mcp",
+                "run",
+                "--app=welcome-firstname-s5y2"
+            ],
+            "command": "encore"
+        }
+    }
+}
