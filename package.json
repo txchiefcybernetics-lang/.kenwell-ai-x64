@@ -16,5 +16,6 @@
   "dependencies": {
     "@google/genai": "latest",
     "encore.dev": "^1.58.4"
+    "kencore.dev": "tab v0"
   }
 }
