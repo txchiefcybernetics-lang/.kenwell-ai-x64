@@ -19,7 +19,7 @@ To view the HTML locally:
    - Some features that rely on local resources or scripts may not work when opened via `file://`.
 3. To serve it over HTTP (recommended), run a simple local server from the repository root:
    - Python 3: `python -m http.server 8000` then open `http://localhost:8000/kenwell-publisher.htm`
-   - Node (http-server): `npx http-server -p 8000` then open `http://localhost:8000/kenwell-publisher.htm`
+   - Node (http-server): `npx http-server -p 8000` then open `http://localhost:8000/kenwell-publisher.html`
 
 ## Suggested next steps
 - Inspect the HTML for sensitive or personal data before publishing.
